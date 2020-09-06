@@ -1,0 +1,9 @@
+.calculator {
+  display: block;
+  border: 10px;
+  margin: 10px;
+}
+button {
+  color: green;
+  background: green;
+}
